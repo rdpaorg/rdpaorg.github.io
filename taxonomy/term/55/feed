@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rdpa.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>rdpa.org - Feature Requests</title>
+ <link>/taxonomy/term/55</link>
+ <description>Feature requests - new fields for the Data Entry form e.t.c.
+</description>
+ <language>en</language>
+<item>
+ <title>Feature Requests</title>
+ <link>/node/3</link>
+ <description>&lt;div class=&quot;field field-name-taxonomy-forums field-type-taxonomy-term-reference field-label-above clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Forums: &lt;/h3&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; rel=&quot;sioc:has_container&quot;&gt;&lt;a href=&quot;/forum/55&quot; typeof=&quot;sioc:Container sioc:Forum&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Feature Requests&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Please, post and discuss your feature requests here.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 04 Apr 2014 05:21:35 +0000</pubDate>
+ <dc:creator>alex</dc:creator>
+ <guid isPermaLink="false">3 at http://rdpa.org</guid>
+ <comments>/node/3#comments</comments>
+</item>
+</channel>
+</rss>
